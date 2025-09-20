@@ -34,7 +34,7 @@ The goal is to perform exploratory data analysis (EDA), visualize patterns, and 
 
 ## ▶️ How to Run
 1. Clone this repository or download the files.  
-2. Open the Jupyter Notebook: `breast_cancer_analysis.ipynb`.  
+2. Open the Jupyter Notebook: `breast_cancer_detection.ipynb`.  
 3. Run all cells to reproduce the analysis and results.  
 
 ## 👩‍💻 About
